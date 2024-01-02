@@ -1,3 +1,3 @@
-def hello_world
-    p 'Hello!'
+def hello
+    p 'Hello World!'
 end
