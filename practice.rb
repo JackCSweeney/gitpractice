@@ -1,4 +1,4 @@
-def hello
+def hello_world
     p 'Hello World!'
-    #merge conflict
+    p 'bye'
 end
