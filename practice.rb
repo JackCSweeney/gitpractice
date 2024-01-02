@@ -1,3 +1,3 @@
 def hello
-    p 'Hello!'
+    p 'Hello World!'
 end
